@@ -1,0 +1,11 @@
+body{
+    padding: 0%;
+    margin: 0%;
+box-sizing: border-box;
+}
+.main{
+    background-image: linear-gradient(yellow, rgb(158, 158, 208), rgb(218, 129, 218));
+}
+
+
+    
